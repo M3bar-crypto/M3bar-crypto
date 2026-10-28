@@ -29,7 +29,7 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-# ❕ About Me:
+# ❕ About Me :
 💻 Software developer based in Tripoli, Libya 🇱🇾, <br>and a Computer Science student 🎓 at Al-Rifaq University. <br>Passionate about software engineering ⚙️,<br> data structures 📊,<br> and building efficient, clean-architecture technical systems 🛠️.<br> Dedicated to crafting practical and smart digital solutions 💡 that address real-world challenges.
 
 
